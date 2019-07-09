@@ -2,7 +2,7 @@
   "name": "gatsby-new-post-cli",
   "version": "1.0.0",
   "description": "cli script for creating markdown posts using core nodejs",
-  "main": "index.js",
+  "main": "newpost.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
